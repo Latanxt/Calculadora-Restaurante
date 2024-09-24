@@ -36,9 +36,9 @@ Este é um aplicativo Android simples desenvolvido no Android Studio utilizando 
 - O valor por pessoa, se a conta estiver sendo dividida.
 
 ## *Tecnologias Utilizadas*
-*Java:* Linguagem de programação utilizada para a lógica do aplicativo.
-*Android Studio:* IDE para o desenvolvimento do aplicativo Android.
-*XML:* Usado para a criação das interfaces gráficas.
+- *Java:* Linguagem de programação utilizada para a lógica do aplicativo.
+- *Android Studio:* IDE para o desenvolvimento do aplicativo Android.
+- *XML:* Usado para a criação das interfaces gráficas.
 
 *Autor:* Eduardo Latâncio
 *Contato:* eduardo.llatancio@gmail.com
