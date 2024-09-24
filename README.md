@@ -41,4 +41,5 @@ Este é um aplicativo Android simples desenvolvido no Android Studio utilizando 
 - *XML:* Usado para a criação das interfaces gráficas.
 
 *Autor:* Eduardo Latâncio
+
 *Contato:* eduardo.llatancio@gmail.com
